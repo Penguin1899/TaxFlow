@@ -1,0 +1,8 @@
+# for the app
+streamlit
+
+# to format the code
+black
+
+# to clean the dirs
+pyclean
